@@ -1,4 +1,4 @@
-public class Microwave
+public class Microwave extends Appliance
 {
 
 }
